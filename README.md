@@ -8,6 +8,10 @@
 
 - [点击跳转](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki)
 
+## 官方源代码库
+
+- [点击跳转](https://github.com/salutesh/DayZ-Expansion-Scripts/tree/experimental/DayZExpansion)
+
 ## 使用说明
 
 - 本 Wiki 主要为参数说明、功能解析和配置指南，方便快速查找和理解 Mod 的各项设置。  
